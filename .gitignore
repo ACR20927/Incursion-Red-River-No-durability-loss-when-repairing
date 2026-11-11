@@ -1,0 +1,8 @@
+/build/
+/vendor/*.zip
+
+# 临时垃圾
+__pycache__/
+*.pyc
+Thumbs.db
+Desktop.ini
